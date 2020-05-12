@@ -1,0 +1,12 @@
+.app{
+    background-color: blue;
+}
+
+.card{
+    padding-top: 10%;
+    box-shadow: 10% 10%;
+}
+
+.cardGroup{
+    padding:20px;
+}

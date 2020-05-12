@@ -1,0 +1,9 @@
+.nav{
+    color: aliceblue;
+    padding: 10px;
+}
+
+.nav:hover{
+    color:limegreen;
+    text-decoration: none
+}
